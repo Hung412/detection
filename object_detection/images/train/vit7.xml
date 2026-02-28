@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>vit7.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\vit7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vịt/Duck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>93</ymin>
+			<xmax>309</xmax>
+			<ymax>602</ymax>
+		</bndbox>
+	</object>
+</annotation>
